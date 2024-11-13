@@ -1,0 +1,11 @@
+name,year,selling_price,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,torque,seats,predicted_price
+Tata Nexon 1.5 Revotorq XE,2017,665000,25000,Diesel,Individual,Manual,First Owner,21.5 kmpl,1497 CC,108.5 bhp,260Nm@ 1500-2750rpm,5.0,780298.7375519276
+Honda Civic 1.8 S AT,2007,175000,218463,Petrol,Individual,Automatic,First Owner,12.9 kmpl,1799 CC,130 bhp,172Nm@ 4300rpm,5.0,228751.75472809374
+Honda City i DTEC VX,2015,635000,173000,Diesel,Individual,Manual,First Owner,25.1 kmpl,1498 CC,98.6 bhp,200Nm@ 1750rpm,5.0,664276.9987691641
+Tata Indica Vista Aura 1.2 Safire BSIV,2011,130000,70000,Petrol,Individual,Manual,Second Owner,16.5 kmpl,1172 CC,65 bhp,96  Nm at 3000  rpm ,5.0,113687.72082829475
+Mahindra Thar CRDe,2019,975000,12584,Diesel,Dealer,Manual,First Owner,16.55 kmpl,2498 CC,105 bhp,247Nm@ 1800-2000rpm,6.0,935704.3827759475
+Chevrolet Spark 1.0 LS,2011,150000,35000,Petrol,Individual,Manual,First Owner,18.0 kmpl,995 CC,62 bhp,90.3Nm@ 4200rpm,5.0,191053.67554998398
+Maruti Ritz ZXi,2012,275000,70000,Petrol,Individual,Manual,Second Owner,18.5 kmpl,1197 CC,85.80 bhp,114Nm@ 4000rpm,5.0,253999.54136176407
+Maruti Alto LX,2011,140000,72000,Petrol,Individual,Manual,Second Owner,19.7 kmpl,796 CC,46.3 bhp,62Nm@ 3000rpm,5.0,99052.17675638199
+Hyundai Creta 1.6 CRDi SX,2016,850000,58000,Diesel,Individual,Manual,First Owner,19.67 kmpl,1582 CC,126.2 bhp,259.9Nm@ 1900-2750rpm,5.0,1056878.7051212043
+Hyundai Verna CRDi 1.6 AT SX Option,2018,1150000,49000,Diesel,Individual,Automatic,First Owner,22.0 kmpl,1582 CC,126.2 bhp,259.87nm@ 1500-3000rpm,5.0,914353.83080253
