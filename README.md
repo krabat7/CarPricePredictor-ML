@@ -47,7 +47,7 @@
 
 Файл с примером: `predictions.csv`
 
-- Пример `predictions.csv`:
+- Пример (как есть):
   ![image](https://github.com/user-attachments/assets/191f6bc9-d8f5-4bd0-bba1-e1960563c189)
 
 - Пример с оформлением (для более читаемого вида):
