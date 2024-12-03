@@ -38,8 +38,8 @@
 Файл с примером: `multiple_items.csv`
 
 - Post-запрос и request для нескольких объектов:
-  ![image](https://github.com/user-attachments/assets/3b350890-0372-44e2-999f-0e4b02c5ba68)
-  ![image](https://github.com/user-attachments/assets/dcb42de6-af2a-4ce2-ae4c-87aa8a907b03)
+  ![image](https://github.com/user-attachments/assets/aa75778e-8d26-4a17-8ce6-2bfa22028487)
+  ![image](https://github.com/user-attachments/assets/20827cd9-a51e-406a-aa7f-38403209e12a)
 
 ## Результат post-запроса по пути `/predict_items` в виде csv-файла
 
