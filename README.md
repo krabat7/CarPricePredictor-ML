@@ -21,8 +21,8 @@
 - **predictions.csv**: CSV-файл с предсказаниями стоимости машины на основе входных данных.
 
 ### 4. `post_data/` — Папка для данных
-- **multiple_items.json**: Пример входных данных для API запроса на несколько объектов.
 - **single_item.json**: Пример входных данных для API запроса на один объект.
+- **multiple_items.csv**: Пример входных данных для API запроса на несколько объектов.
 
 
 ## Скриншоты работы FastAPI по пути `/predict_item` на примере одного объекта из тестовой выборки
@@ -35,7 +35,7 @@
 
 ## Скриншоты работы FastAPI по пути `/predict_items` на примере нескольких объектов из тестовой выборки
 
-Файл с примером: `multiple_items.json`
+Файл с примером: `multiple_items.csv`
 
 - Post-запрос и request для нескольких объектов:
   ![image](https://github.com/user-attachments/assets/3b350890-0372-44e2-999f-0e4b02c5ba68)
@@ -47,5 +47,8 @@
 
 Файл с примером: `predictions.csv`
 
-- Пример:
+- Пример `predictions.csv`:
+  ![image](https://github.com/user-attachments/assets/191f6bc9-d8f5-4bd0-bba1-e1960563c189)
+
+- Пример с оформлением (для более читаемого вида):
   ![image](https://github.com/user-attachments/assets/0b87d116-1c3b-42dd-8915-ec94745d4373)
